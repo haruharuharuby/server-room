@@ -1,0 +1,39 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "mackerel room",
+      "types": [
+
+      ],
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": [
+
+          ]
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": [
+
+          ]
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": [
+
+          ]
+        },
+        {
+          "name": "HelloServerRoomIntent",
+          "slots": [
+
+          ],
+          "samples": [
+            "hello I'm missing Japanese foods"
+          ]
+        }
+      ]
+    }
+  }
+}
